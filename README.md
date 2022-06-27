@@ -6,15 +6,15 @@
 <p align="center">
 
   <a href="https://twitter.com/CollinsViashima" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Collins" height="30" width="40"/>
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt="Collins" height="30" width="40"/>
   </a>
 
   <a href="https://linkedin.com/in/collinsv" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/ahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="collinsv" height="30" width="40"/>
+    <img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="collinsv" height="30" width="40"/>
   </a>
 
   <a href="https://fb.com/viashimac" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/ahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="viashimac" height="30" width="40"/>
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/2048px-Facebook_f_logo_%282021%29.svg.png" alt="viashimac" height="30" width="40"/>
   </a>
 </p>
 
@@ -90,4 +90,4 @@
  </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aysi143&" alt="aysi143" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clins10&" alt="clins10" /></p>
