@@ -10,11 +10,11 @@
   </a>
 
   <a href="https://linkedin.com/in/collinsv" target="blank">
-    <img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="collinsv" height="30" width="40"/>
+    <img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="collinsv" height="40" width="50"/>
   </a>
 
   <a href="https://fb.com/viashimac" target="blank">
-    <img align="center" src="https://i.pinimg.com/564x/b3/26/b5/b326b5f8d23cd1e0f18df4c9265416f7--facebook-icon-negative-feedback.jpg" alt="viashimac" height="30" width="40"/>
+    <img align="center" src="https://i.pinimg.com/564x/b3/26/b5/b326b5f8d23cd1e0f18df4c9265416f7--facebook-icon-negative-feedback.jpg" alt="viashimac" height="50" width="50"/>
   </a>
 </p>
 
