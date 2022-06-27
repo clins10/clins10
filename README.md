@@ -14,7 +14,7 @@
   </a>
 
   <a href="https://fb.com/viashimac" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/2048px-Facebook_f_logo_%282021%29.svg.png" alt="viashimac" height="30" width="40"/>
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1200px-Facebook_icon.svg.png" alt="viashimac" height="30" width="40"/>
   </a>
 </p>
 
