@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋👋, I'm Viashima Collins (clins10)</h1>
+<h1 align="center">Hi 👋👋, I'm Viashima (clins10)</h1>
 <h3 align="center">A gritty Software Engineer</h3>
 
 
