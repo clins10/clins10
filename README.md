@@ -28,6 +28,31 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>
 
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="css3" 
+    width="40" height="40"/> 
+  </a>
+
+  <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
+   <img src="https://img.stackshare.io/service/12421/rzylUjaf_400x400.jpg" alt="css3" 
+   width="40" height="40"/> 
+  </a>
+
+  <a href="https://mui.com/" target="_blank" rel="noreferrer">
+   <img src="https://v4.material-ui.com/static/logo.png" alt="css3" 
+   width="40" height="40"/> 
+  </a>
+
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" 
+    width="40" height="40"/> 
+  </a>
+
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  </a> 
+
+
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="git" width="40" height="40"/>
  </a> 
@@ -80,14 +105,6 @@
  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   </a>
-
- <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
- </a>
-
- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
- </a> 
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clins10&" alt="clins10" /></p>
