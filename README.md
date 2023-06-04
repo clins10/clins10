@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋👋, I'm Viashima Collins </h1>
-<h3 align="center">A gritty Software Engineer</h3>
+<h3 align="center">A gritty Cloud DevOps | Software Engineer</h3>
 
 
 <h3 align="center">Connect With Me:</h3>
